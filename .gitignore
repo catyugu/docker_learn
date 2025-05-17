@@ -31,3 +31,6 @@ package-lock.json
 // 忽略server和app目录下的node_modules
 server/node_modules/
 app/node_modules/
+
+# 忽略lingma规则文件
+.lingma/
